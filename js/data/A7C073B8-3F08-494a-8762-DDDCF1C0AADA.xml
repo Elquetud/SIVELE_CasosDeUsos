@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Casos De Uso", "EARoot/EA2/EA9.htm", "180.png", "19", "0", "", "Use Case diagram0","{0D4C4CBD-FD23-4da2-A863-711F35537168}");
+tocTab[tocTab.length] = new Array("0.2:2", "", ": Administrador", "EARoot/EA2/EA12.htm", "25.png", "E171", "0", "", "Object0","{1EEB7BF0-330D-4dc4-96E8-C52BBB07A775}");
+tocTab[tocTab.length] = new Array("0.2:3", "", ": Cliente", "EARoot/EA2/EA13.htm", "25.png", "E172", "0", "", "Object0","{01484BA6-7138-4c27-B034-5E4F5E730AF0}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "R002-Proceso de Ventas", "EARoot/EA2/EA14.htm", "7.png", "E116", "0", "", "UseCase0","{BA861FFC-282C-49a9-9AAA-7B2FB96D4991}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "R003-Ecommerce", "EARoot/EA2/EA15.htm", "7.png", "E120", "0", "", "UseCase0","{A5A9FAA1-CDFE-4128-ADDE-D7293D0B8F8F}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "R004-Entrega-Producto", "EARoot/EA2/EA16.htm", "7.png", "E117", "0", "", "UseCase0","{A04AFA62-C7F5-4fb2-8F9F-EFC198F18DA7}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "R005-Registro En Linea", "EARoot/EA2/EA17.htm", "7.png", "E118", "0", "", "UseCase0","{7E1D3A18-F81E-411e-8B0E-1E2C8DDB3FBB}");
+tocTab[tocTab.length] = new Array("0.2:8", "", "R006-Devoluciones", "EARoot/EA2/EA18.htm", "7.png", "E122", "0", "", "UseCase0","{08EE8FA4-449C-472d-8DE9-50BDBD5DE13D}");
+tocTab[tocTab.length] = new Array("0.2:9", "", "R007-Registrar Usuarios", "EARoot/EA2/EA19.htm", "7.png", "E115", "0", "", "UseCase0","{F7CB30B3-32B3-494c-84FD-2F0A9193BE8E}");
+tocTab[tocTab.length] = new Array("0.2:10", "", "R008-Compras", "EARoot/EA2/EA20.htm", "7.png", "E119", "0", "", "UseCase0","{AC6B1488-F145-4dcd-AD35-CD194B44FD94}");
